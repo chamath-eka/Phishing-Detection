@@ -16,8 +16,7 @@ How it works
 
 Dataset
 
-PhishTank website
-Alexa website
+PhishTank website, Alexa website
 
 TODO
 
